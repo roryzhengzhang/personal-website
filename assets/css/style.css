@@ -10,6 +10,16 @@ Author:		elemis
   border: 0;
   content: "\e902";
 }
+
+.add-padding {
+  padding-top: 10px;
+}
+
+.add-margin {
+  margin-top: 10px;
+  margin-bottom: 1px;
+}
+
 .caret-simple .dropdown-toggle::after {
   font-family: "Unicons";
   display: inline-block;
