@@ -299,6 +299,9 @@ sub {
 sup {
   top: -0.5em;
 }
+.highlight-text {
+  color: #97a88a;
+}
 a {
   color: #97a88a; /*#3f78e0;*/
   text-decoration: none;
