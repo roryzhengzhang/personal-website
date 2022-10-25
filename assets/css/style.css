@@ -302,8 +302,12 @@ sup {
 .highlight-text {
   color: #97a88a;
 }
+.fade-text {
+  color: #d3d3d3;
+}
 a {
   color: #97a88a; /*#3f78e0;*/
+  font-weight: bold;
   text-decoration: none;
 }
 a:hover {
